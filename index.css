@@ -1,0 +1,119 @@
+*{
+    background-color: black;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+nav .nav-item .nav-text:hover{
+    border-bottom: 3px solid aliceblue;
+}
+.nav-char{
+    width: 45px;
+    height: 45px;
+    border: 2px solid aliceblue;
+    border-radius: 50px;
+    
+    
+}
+.nav-char-b{
+    margin-left: 55rem;
+}
+.nav-text{
+    /* margin-top: 0.1rem; */
+    margin-left: 2rem;
+}
+.starter-img{
+    text-align: center;
+
+}
+.bg{
+    width: 60%;
+    height: 35rem;
+    margin-top: 0;
+    border-radius: 10px;
+    border: 10px solid aliceblue;
+
+    
+}
+.bg:hover{
+    box-shadow: 40px 40px 10px aliceblue;
+
+    
+}
+.logo-sync{
+    text-align: center;
+    
+}
+.logo-sync img{
+    width: 20rem;
+    height: 15rem;
+}
+.card:hover{
+    box-shadow: 0 0 10px rgba(255, 254, 254, 0.707);
+    transition: .3s;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
+.card img{
+    border-radius: 10px;
+    
+}
+.card img:hover{
+    box-shadow: 0 0 10px rgb(12, 11, 11);
+}
+
+.card-body a{
+    text-decoration: none;
+    color: black;
+    
+}
+.card{
+    font-weight: 500;
+    background-color: transparent;
+    /* z-index: 1000; */
+    width: 15rem;
+    color: aliceblue    ;
+}
+.card:hover{
+    background-color: white;
+}
+.card-body a:hover{
+    text-shadow: 0 0 10px rgb(12, 11, 11);
+    color: aliceblue;
+    
+}
+.list-group-item{
+    color: aliceblue;
+}
+.list-group-item:hover{
+    text-shadow: 0 0 10px rgb(12, 11, 11);
+}
+.yaz h1{
+    color: aliceblue;
+}
+.altCards{
+
+    background-color: aliceblue;
+}
+.altCards:hover{
+    width: 20rem;
+}
+.img-card{
+    width: 100%;
+}
+.char-page{
+    width: 75%;
+    height: 25rem;
+}
+.char-page:hover{
+    height: 30rem;
+}
+.fa-brands:hover{
+    font-size: 40px;
+    transition: 0.3s;
+}
+
